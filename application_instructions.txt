@@ -1,0 +1,39 @@
+INSTRUCTIONS FOR RUNNING THE APPLICATION:
+
+Language Requirement(s): Python 3.9
+
+Steps:
+
+1. Run: git clone git@github.com:MersimRizmani/COVID19-Data-Visualizer.git
+
+	or download zip file from Blackboard
+
+2. Open project directory in Terminal
+
+3. Navigate to the /runnable folder
+
+4. Run: python -m venv env
+
+	this is to create a new virtual environment where you'll be able to install all packages needed to run the application.
+
+5: Activate the newly created virtual environment:
+
+On Mac Run:
+source env/bin/activate
+
+On Windows Run:
+.\env\Scripts\activate
+
+6. Run: pip install -r requirements.txt
+
+	requirements.txt is the file that contains a list of all the packages and dependencies utilized in the project.
+
+7. Run: python main.py
+
+	this will run the application, which is in the form of a Python script.
+
+8. Wait for data to load from database
+
+9. Use drop down menus on the left hand side to configure your desired data view
+
+10. Press the Visualize It button and you're all set!

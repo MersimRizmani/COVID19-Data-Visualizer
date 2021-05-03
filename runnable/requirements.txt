@@ -1,0 +1,13 @@
+future==0.18.2
+
+pandas~=1.2.4
+Pillow~=8.2.0
+firebase==3.0.1
+matplotlib~=3.4.1
+
+python_jwt==3.3.0
+gcloud==0.18.3
+sseclient==0.0.27
+pycryptodome==3.10.1
+requests_toolbelt==0.9.1
+

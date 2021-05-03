@@ -1,0 +1,702 @@
+[
+  {
+    "date": "2020-12-20",
+    "vaccine": "Pfizer/BioNTech",
+    "total_vaccinations": 556208,
+    "people_vaccinated": 556208,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2020-12-21",
+    "vaccine": "Pfizer/BioNTech",
+    "total_vaccinations": 614117,
+    "people_vaccinated": 614117,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2020-12-23",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 1008025,
+    "people_vaccinated": 1008025,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2020-12-26",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 1944585,
+    "people_vaccinated": 1944585,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2020-12-28",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 2127143,
+    "people_vaccinated": 2127143,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2020-12-30",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 2794588,
+    "people_vaccinated": 2794588,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2021-01-02",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 4225756,
+    "people_vaccinated": 4225756,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2021-01-04",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 4563260,
+    "people_vaccinated": 4563260,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2021-01-05",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 4836469,
+    "people_vaccinated": 4836469,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2021-01-06",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 5306797,
+    "people_vaccinated": 5306797,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2021-01-07",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 5919418,
+    "people_vaccinated": 5919418,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2021-01-08",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 6688231,
+    "people_vaccinated": 6688231,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2021-01-11",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 8987322,
+    "people_vaccinated": 8987322,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2021-01-12",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 9327138,
+    "people_vaccinated": 9327138,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2021-01-13",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 10278462,
+    "people_vaccinated": 0,
+    "people_fully_vaccinated": 0
+  },
+  {
+    "date": "2021-01-14",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 11148991,
+    "people_vaccinated": 9690757,
+    "people_fully_vaccinated": 1342086
+  },
+  {
+    "date": "2021-01-15",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 12279180,
+    "people_vaccinated": 10595866,
+    "people_fully_vaccinated": 1610524
+  },
+  {
+    "date": "2021-01-19",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 15707588,
+    "people_vaccinated": 13595803,
+    "people_fully_vaccinated": 2023124
+  },
+  {
+    "date": "2021-01-20",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 16525281,
+    "people_vaccinated": 14270441,
+    "people_fully_vaccinated": 2161419
+  },
+  {
+    "date": "2021-01-21",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 17546374,
+    "people_vaccinated": 15053257,
+    "people_fully_vaccinated": 2394961
+  },
+  {
+    "date": "2021-01-22",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 19107959,
+    "people_vaccinated": 16243093,
+    "people_fully_vaccinated": 2756953
+  },
+  {
+    "date": "2021-01-23",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 20537990,
+    "people_vaccinated": 17390345,
+    "people_fully_vaccinated": 3027865
+  },
+  {
+    "date": "2021-01-24",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 21848655,
+    "people_vaccinated": 18502131,
+    "people_fully_vaccinated": 3216836
+  },
+  {
+    "date": "2021-01-25",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 22734243,
+    "people_vaccinated": 19252279,
+    "people_fully_vaccinated": 3346390
+  },
+  {
+    "date": "2021-01-26",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 23540994,
+    "people_vaccinated": 19902237,
+    "people_fully_vaccinated": 3481921
+  },
+  {
+    "date": "2021-01-27",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 24652634,
+    "people_vaccinated": 20687970,
+    "people_fully_vaccinated": 3801053
+  },
+  {
+    "date": "2021-01-28",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 26193682,
+    "people_vaccinated": 21698606,
+    "people_fully_vaccinated": 4263056
+  },
+  {
+    "date": "2021-01-29",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 27884661,
+    "people_vaccinated": 22858318,
+    "people_fully_vaccinated": 4780888
+  },
+  {
+    "date": "2021-01-30",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 29577902,
+    "people_vaccinated": 24064165,
+    "people_fully_vaccinated": 5259693
+  },
+  {
+    "date": "2021-01-31",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 31123299,
+    "people_vaccinated": 25201143,
+    "people_fully_vaccinated": 5657142
+  },
+  {
+    "date": "2021-02-01",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 32222402,
+    "people_vaccinated": 26023153,
+    "people_fully_vaccinated": 5927847
+  },
+  {
+    "date": "2021-02-02",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 32780860,
+    "people_vaccinated": 26440836,
+    "people_fully_vaccinated": 6064792
+  },
+  {
+    "date": "2021-02-03",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 33878254,
+    "people_vaccinated": 27154956,
+    "people_fully_vaccinated": 6436931
+  },
+  {
+    "date": "2021-02-04",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 35203710,
+    "people_vaccinated": 27905197,
+    "people_fully_vaccinated": 6926050
+  },
+  {
+    "date": "2021-02-05",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 36819212,
+    "people_vaccinated": 28909497,
+    "people_fully_vaccinated": 7503864
+  },
+  {
+    "date": "2021-02-06",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 39037964,
+    "people_vaccinated": 30250964,
+    "people_fully_vaccinated": 8317180
+  },
+  {
+    "date": "2021-02-07",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 41210937,
+    "people_vaccinated": 31579100,
+    "people_fully_vaccinated": 9147185
+  },
+  {
+    "date": "2021-02-08",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 42417617,
+    "people_vaccinated": 32340146,
+    "people_fully_vaccinated": 9518015
+  },
+  {
+    "date": "2021-02-09",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 43206190,
+    "people_vaccinated": 32867213,
+    "people_fully_vaccinated": 9840429
+  },
+  {
+    "date": "2021-02-10",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 44769970,
+    "people_vaccinated": 33783384,
+    "people_fully_vaccinated": 10469514
+  },
+  {
+    "date": "2021-02-11",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 46390270,
+    "people_vaccinated": 34723964,
+    "people_fully_vaccinated": 11188782
+  },
+  {
+    "date": "2021-02-12",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 48410558,
+    "people_vaccinated": 35834855,
+    "people_fully_vaccinated": 12085830
+  },
+  {
+    "date": "2021-02-13",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 50641884,
+    "people_vaccinated": 37056122,
+    "people_fully_vaccinated": 13082172
+  },
+  {
+    "date": "2021-02-14",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 52884356,
+    "people_vaccinated": 38292270,
+    "people_fully_vaccinated": 14077440
+  },
+  {
+    "date": "2021-02-16",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 55220364,
+    "people_vaccinated": 39670551,
+    "people_fully_vaccinated": 15015434
+  },
+  {
+    "date": "2021-02-17",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 56281827,
+    "people_vaccinated": 40268009,
+    "people_fully_vaccinated": 15471536
+  },
+  {
+    "date": "2021-02-18",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 57737767,
+    "people_vaccinated": 41021049,
+    "people_fully_vaccinated": 16162358
+  },
+  {
+    "date": "2021-02-19",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 59585043,
+    "people_vaccinated": 41977401,
+    "people_fully_vaccinated": 17039118
+  },
+  {
+    "date": "2021-02-20",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 61289500,
+    "people_vaccinated": 42809595,
+    "people_fully_vaccinated": 17895667
+  },
+  {
+    "date": "2021-02-21",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 63090634,
+    "people_vaccinated": 43628092,
+    "people_fully_vaccinated": 18865319
+  },
+  {
+    "date": "2021-02-22",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 64177474,
+    "people_vaccinated": 44138118,
+    "people_fully_vaccinated": 19438495
+  },
+  {
+    "date": "2021-02-23",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 65032083,
+    "people_vaccinated": 44544969,
+    "people_fully_vaccinated": 19882544
+  },
+  {
+    "date": "2021-02-24",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 66464947,
+    "people_vaccinated": 45237143,
+    "people_fully_vaccinated": 20607261
+  },
+  {
+    "date": "2021-02-25",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 68274117,
+    "people_vaccinated": 46074392,
+    "people_fully_vaccinated": 21555117
+  },
+  {
+    "date": "2021-02-26",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 70454064,
+    "people_vaccinated": 47184199,
+    "people_fully_vaccinated": 22613359
+  },
+  {
+    "date": "2021-02-27",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 72806180,
+    "people_vaccinated": 48435536,
+    "people_fully_vaccinated": 23698627
+  },
+  {
+    "date": "2021-02-28",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 75236003,
+    "people_vaccinated": 49772180,
+    "people_fully_vaccinated": 24779920
+  },
+  {
+    "date": "2021-03-01",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 76899987,
+    "people_vaccinated": 50732997,
+    "people_fully_vaccinated": 25466405
+  },
+  {
+    "date": "2021-03-02",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 78631601,
+    "people_vaccinated": 51755447,
+    "people_fully_vaccinated": 26162122
+  },
+  {
+    "date": "2021-03-03",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 80540474,
+    "people_vaccinated": 52855579,
+    "people_fully_vaccinated": 26957804
+  },
+  {
+    "date": "2021-03-04",
+    "vaccine": "Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 82572848,
+    "people_vaccinated": 54035670,
+    "people_fully_vaccinated": 27795980
+  },
+  {
+    "date": "2021-03-05",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 85008094,
+    "people_vaccinated": 55547697,
+    "people_fully_vaccinated": 28701201
+  },
+  {
+    "date": "2021-03-06",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 87912323,
+    "people_vaccinated": 57358849,
+    "people_fully_vaccinated": 29776160
+  },
+  {
+    "date": "2021-03-07",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 90351750,
+    "people_vaccinated": 58873710,
+    "people_fully_vaccinated": 30686881
+  },
+  {
+    "date": "2021-03-08",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 92089852,
+    "people_vaccinated": 60005231,
+    "people_fully_vaccinated": 31493040
+  },
+  {
+    "date": "2021-03-09",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 93692598,
+    "people_vaccinated": 61088527,
+    "people_fully_vaccinated": 32102061
+  },
+  {
+    "date": "2021-03-10",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 95721290,
+    "people_vaccinated": 62451150,
+    "people_fully_vaccinated": 32904161
+  },
+  {
+    "date": "2021-03-11",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 98203893,
+    "people_vaccinated": 64071674,
+    "people_fully_vaccinated": 33863127
+  },
+  {
+    "date": "2021-03-12",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 101128005,
+    "people_vaccinated": 65965305,
+    "people_fully_vaccinated": 35000159
+  },
+  {
+    "date": "2021-03-13",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 105703501,
+    "people_vaccinated": 68884011,
+    "people_fully_vaccinated": 36929777
+  },
+  {
+    "date": "2021-03-14",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 107060274,
+    "people_vaccinated": 69784210,
+    "people_fully_vaccinated": 37459269
+  },
+  {
+    "date": "2021-03-15",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 109081860,
+    "people_vaccinated": 71054445,
+    "people_fully_vaccinated": 38335432
+  },
+  {
+    "date": "2021-03-16",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 110737856,
+    "people_vaccinated": 72135616,
+    "people_fully_vaccinated": 39042345
+  },
+  {
+    "date": "2021-03-17",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 113037627,
+    "people_vaccinated": 73669956,
+    "people_fully_vaccinated": 39989196
+  },
+  {
+    "date": "2021-03-18",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 115730008,
+    "people_vaccinated": 75495716,
+    "people_fully_vaccinated": 40981464
+  },
+  {
+    "date": "2021-03-19",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 118313818,
+    "people_vaccinated": 77230061,
+    "people_fully_vaccinated": 41934629
+  },
+  {
+    "date": "2021-03-20",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 121441497,
+    "people_vaccinated": 79367225,
+    "people_fully_vaccinated": 43036818
+  },
+  {
+    "date": "2021-03-21",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 124481412,
+    "people_vaccinated": 81415769,
+    "people_fully_vaccinated": 44141228
+  },
+  {
+    "date": "2021-03-22",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 126509736,
+    "people_vaccinated": 82772416,
+    "people_fully_vaccinated": 44910946
+  },
+  {
+    "date": "2021-03-23",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 128217029,
+    "people_vaccinated": 83930495,
+    "people_fully_vaccinated": 45533962
+  },
+  {
+    "date": "2021-03-24",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 130473853,
+    "people_vaccinated": 85472166,
+    "people_fully_vaccinated": 46365515
+  },
+  {
+    "date": "2021-03-25",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 133305295,
+    "people_vaccinated": 87343622,
+    "people_fully_vaccinated": 47419832
+  },
+  {
+    "date": "2021-03-26",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 136684688,
+    "people_vaccinated": 89559225,
+    "people_fully_vaccinated": 48695172
+  },
+  {
+    "date": "2021-03-27",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 140180735,
+    "people_vaccinated": 91707729,
+    "people_fully_vaccinated": 50141769
+  },
+  {
+    "date": "2021-03-28",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 143462691,
+    "people_vaccinated": 93631163,
+    "people_fully_vaccinated": 51593564
+  },
+  {
+    "date": "2021-03-29",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 145812835,
+    "people_vaccinated": 95015762,
+    "people_fully_vaccinated": 52614231
+  },
+  {
+    "date": "2021-03-30",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 147602345,
+    "people_vaccinated": 96044046,
+    "people_fully_vaccinated": 53423486
+  },
+  {
+    "date": "2021-03-31",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 150273292,
+    "people_vaccinated": 97593290,
+    "people_fully_vaccinated": 54607041
+  },
+  {
+    "date": "2021-04-01",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 153631404,
+    "people_vaccinated": 99565311,
+    "people_fully_vaccinated": 56089614
+  },
+  {
+    "date": "2021-04-02",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 157606463,
+    "people_vaccinated": 101804762,
+    "people_fully_vaccinated": 57984785
+  },
+  {
+    "date": "2021-04-03",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 161688422,
+    "people_vaccinated": 104213478,
+    "people_fully_vaccinated": 59858146
+  },
+  {
+    "date": "2021-04-04",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 165053746,
+    "people_vaccinated": 106214924,
+    "people_fully_vaccinated": 61416536
+  },
+  {
+    "date": "2021-04-05",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 167187795,
+    "people_vaccinated": 107515428,
+    "people_fully_vaccinated": 62392065
+  },
+  {
+    "date": "2021-04-06",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 168592075,
+    "people_vaccinated": 108301234,
+    "people_fully_vaccinated": 63016976
+  },
+  {
+    "date": "2021-04-07",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 171476655,
+    "people_vaccinated": 109995734,
+    "people_fully_vaccinated": 64422618
+  },
+  {
+    "date": "2021-04-08",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 174879716,
+    "people_vaccinated": 112046611,
+    "people_fully_vaccinated": 66203123
+  },
+  {
+    "date": "2021-04-09",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 178837781,
+    "people_vaccinated": 114436039,
+    "people_fully_vaccinated": 68202458
+  },
+  {
+    "date": "2021-04-10",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 183467709,
+    "people_vaccinated": 117142879,
+    "people_fully_vaccinated": 70692645
+  },
+  {
+    "date": "2021-04-11",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 187047131,
+    "people_vaccinated": 119242902,
+    "people_fully_vaccinated": 72630892
+  },
+  {
+    "date": "2021-04-12",
+    "vaccine": "Johnson&Johnson, Moderna, Pfizer/BioNTech",
+    "total_vaccinations": 189692045,
+    "people_vaccinated": 120848490,
+    "people_fully_vaccinated": 74066085
+  }
+]

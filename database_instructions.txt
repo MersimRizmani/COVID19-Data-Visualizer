@@ -1,0 +1,25 @@
+INSTRUCTIONS FOR VIEWING THE DATABASE ON Google Firebase:
+
+Requirements: a Google account, owner permission
+
+NOTE: to be able to view the database, I will need to add you as a user. Email me if you do not have access. I add you as a user via your email. 
+
+Steps to view database:
+
+1. Link to database: https://covid19tracker-307822-default-rtdb.firebaseio.com/
+
+2. If not already there, on the left hand side, navigate to Build -> Realtime Database
+
+3. There you will see the root of the database, "covid19tracker-307822-default-rtdb,"  with a '+' icon to the left of it. 
+
+4. To view the database tree click the '+' icon to the left of "covid19tracker-307822-default-rtdb."
+
+5. This will display 5 subtrees of the database: county_covid, state_covid, us_covid, state_vaccines, us_vaccines
+
+6. You can continue to expand the database by clicking the '+' to view the data.
+
+Instructions for installing and loading the data:
+
+None: the data is already loaded in the Python script. You do not have to install the database since it is hosted on Google. When you run the Python script, the data gets pulled from the Realtime Database, thus you do not have to manually load the data.
+
+Note on Google Firebase DB: Google Firebase DB only allows 10 GB/month of free downloads. Keep this in mind when using this application. Try to limit the number of times it is run.
